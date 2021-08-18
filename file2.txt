@@ -1,4 +1,3 @@
 1st line is added to local master
 2nd line is added to local branch1
-3rd line is added to local master
-4th line is added to local branch1 for "git diff"
+
