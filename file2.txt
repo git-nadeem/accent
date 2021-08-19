@@ -2,3 +2,8 @@
 2nd line is added to local branch1
 3rd line is added to local branch1
 4th line is added to check "git diff"
+<<<<<<< HEAD
+=======
+5th line is added to remote accent
+
+>>>>>>> 75d6d594acb684c6cee382425854b1a490e254a2
